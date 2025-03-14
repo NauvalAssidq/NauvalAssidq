@@ -37,6 +37,6 @@ I'm a passionate full-stack developer with a love for building robust and scalab
 - 💼 LinkedIn: [Your Name](your-linkedin-url)
 - 🐦 Twitter: [@yourhandle](https://twitter.com/thesecondhalla)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NauvalAssidq&theme=dark)](https://git.io/streak-stats)
 
 ⭐ From Nauval Dhonand Sidiq
