@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Nauval Dhonand Sidiq! 👋
 
-[![GitHub Follow](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![GitHub Follow](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/NauvalAssidq)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
 
 ---
@@ -33,9 +33,9 @@ I'm a passionate full-stack developer with a love for building robust and scalab
 ---
 
 ## 🚀 Let's Connect!
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [your.email@example.com](mailto:nauvalsidiq0427@gmail.com)
 - 💼 LinkedIn: [Your Name](your-linkedin-url)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 🐦 Twitter: [@yourhandle](https://twitter.com/thesecondhalla)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark)](https://git.io/streak-stats)
 
