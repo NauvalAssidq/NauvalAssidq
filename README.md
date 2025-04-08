@@ -33,9 +33,9 @@ I'm a passionate full-stack developer with a love for building robust and scalab
 ---
 
 ## 🚀 Let's Connect!
-- 📧 Email: [your.email@example.com](mailto:nauvalsidiq0427@gmail.com)
-- 💼 LinkedIn: [Your Name](your-linkedin-url)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/thesecondhalla)
+- 📧 Email: [nauvalsidiq0427@gmail.com](mailto:nauvalsidiq0427@gmail.com)
+- 💼 LinkedIn: [Under-Construction](your-linkedin-url)
+- 🐦 Twitter: [@thesecondhalla](https://twitter.com/thesecondhalla)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NauvalAssidq&theme=dark)](https://git.io/streak-stats)
 
