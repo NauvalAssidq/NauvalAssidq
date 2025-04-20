@@ -34,4 +34,6 @@ I'm a passionate full-stack developer with a love for building robust and scalab
 - 🐦 Twitter: [@thesecondhalla](https://twitter.com/thesecondhalla)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nauvalassidq&card_width=600)](https://git.io/streak-stats)
+
+---
 ⭐ From Nauval Dhonand Sidiq
