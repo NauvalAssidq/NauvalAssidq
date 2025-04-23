@@ -28,7 +28,7 @@ I'm a passionate full-stack developer with a love for building robust and scalab
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nauvalassidq&theme=github-dark&card_width=1000)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gotham&card_width=500)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nauvalassidq&theme=gotham&card_width=500&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nauvalassidq&layout=compact&theme=gotham&card_width=600)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nauvalassidq&theme=gotham&card_width=600&hide_title=true)
 
 ⭐ From Nauval Dhonand Sidiq
