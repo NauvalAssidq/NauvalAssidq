@@ -8,8 +8,6 @@
 I'm a passionate full-stack developer with a love for building robust and scalable web applications. With experience in both front-end and back-end development, I enjoy turning complex problems into simple, beautiful solutions. When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or enjoying a good cup of coffee while debugging! ☕
 
 ## 🛠 Tech Stack
-
-### **Backend Development**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
