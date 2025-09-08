@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
 
 
-## 👨💻 Introduction  
+## Introduction  
 I'm a passionate full-stack developer with a love for building robust and scalable web applications. With experience in both front-end and back-end development, I enjoy turning complex problems into simple, beautiful solutions. When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or enjoying a good cup of coffee while debugging! ☕
 
 ## 🛠 Tech Stack
@@ -21,9 +21,16 @@ I'm a passionate full-stack developer with a love for building robust and scalab
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🚀 Let's Connect!
+## Let's Connect!
 - 📧 Email: [nauvalsidiq0427@gmail.com](mailto:nauvalsidiq0427@gmail.com)
 - 💼 LinkedIn: [Under-Construction](your-linkedin-url)
 - 🐦 Twitter: [@thesecondhalla](https://twitter.com/thesecondhalla)
 
-⭐ From Nauval Dhonand Sidiq
+From Nauval Dhonand Sidiq
+
+## Statistics
+
+<a href="https://github.com/gilangadhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nauvalassidq&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nauvalassidq&langs_count=8&count_private=true"/>
+</a>
