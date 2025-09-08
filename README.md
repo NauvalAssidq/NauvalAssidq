@@ -29,4 +29,4 @@ I'm a passionate full-stack developer with a love for building robust and scalab
 From Nauval Dhonand Sidiq
 
 ## Statistics
-
+https://pixel-profile.vercel.app/api/github-stats?username=nauvalassidq&screen_effect=true&theme=crt
