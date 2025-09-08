@@ -1,3 +1,7 @@
+<picture decoding="async" loading="lazy">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=nauvalassidq&screen_effect=true">
+</picture>
+
 # Hi there, I'm Nauval Dhonand Sidiq! 👋
 
 [![GitHub Follow](https://img.shields.io/github/followers/nauvalassidq?label=Follow&style=social)](https://github.com/NauvalAssidq)
@@ -28,5 +32,3 @@ I'm a passionate full-stack developer with a love for building robust and scalab
 
 From Nauval Dhonand Sidiq
 
-## Statistics
-https://pixel-profile.vercel.app/api/github-stats?username=nauvalassidq&screen_effect=true&theme=crt
