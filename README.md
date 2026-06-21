@@ -1,5 +1,6 @@
 <picture decoding="async" loading="lazy">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=nauvalassidq&screen_effect=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=nauvalassidq">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=nauvalassidq">
 </picture>
 
 # Hi there, I'm Nauval Dhonand Sidiq! 👋
